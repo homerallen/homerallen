@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @homerallen
-- 🌱 I’m currently learning ... JavaScript, TypeScript, and React
+- 🌱 I’m currently training and refreshing for a Front End Dev role.
 
 <!---
 homerallen/homerallen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
